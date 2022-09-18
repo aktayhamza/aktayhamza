@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Android Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m living in **Istanbul**
 
 - 📫 How to reach me **aktayhamza@gmail.com**
 
